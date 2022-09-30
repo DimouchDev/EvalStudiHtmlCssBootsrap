@@ -1,0 +1,26 @@
+body {
+    font-family: 'Arvo', serif;
+}
+
+html {
+    scroll-behavior: smooth;
+    /* smooth scrolling */
+}
+
+h2,
+h3,
+h4,
+.nav-item,
+#transition,
+footer {
+    text-align: center;
+
+}
+
+/* ***************Header******************* */
+header {
+    background-color: #000000;
+    color: #6b1c1c;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
